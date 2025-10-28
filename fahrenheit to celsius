@@ -1,0 +1,4 @@
+#fahrenheit to celsius
+a=int(input("Enter the Fahrenheit "))
+b=(a-32)/1.8
+print("The celsius is ",b)
